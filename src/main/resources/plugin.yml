@@ -1,0 +1,4 @@
+name: MineLC_CORE
+main: lc.core.CoreMain
+author: Leo018
+version: 1.0
